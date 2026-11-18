@@ -1,0 +1,10 @@
+<resources>
+    <style name="Theme.GalaxySidecar" parent="android:style/Theme.Material.NoActionBar">
+        <item name="android:colorAccent">#B9F7DA</item>
+        <item name="android:windowBackground">#10151A</item>
+        <item name="android:statusBarColor">#10151A</item>
+        <item name="android:navigationBarColor">#10151A</item>
+        <item name="android:windowLightStatusBar">false</item>
+        <item name="android:windowLightNavigationBar">false</item>
+    </style>
+</resources>

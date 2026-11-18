@@ -1,0 +1,17 @@
+.DS_Store
+macos/.build/
+android/.gradle/
+android/.kotlin/
+android/**/build/
+android/local.properties
+.idea/
+
+# Local credentials and signing material
+.env
+.env.*
+*.jks
+*.keystore
+*.p12
+*.mobileprovision
+*input-token
+remote-pairing
